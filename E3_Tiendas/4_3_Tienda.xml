@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Tiendas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="4_3_Tiendas.xsd" tipo="ropa">  
+	<nombre>ZARA</nombre>   
+	<localizacion>Madrid</localizacion>  
+	<localizacion>Sevilla</localizacion>  
+	<localizacion>Barcelona</localizacion>  
+	<jefe>Amancio Ortega</jefe> 
+</Tiendas>

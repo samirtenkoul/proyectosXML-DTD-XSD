@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<saludos>
+		<persona dni="55543339">
+			<nombre>luis</nombre>
+			<apellidos>Perez</apellidos>
+			<sueldo moneda="euros">1500</sueldo>
+			<mensaje>Hola soy Luis</mensaje>
+			<fech_mensaje dia="01" mes="10" anyo="1999"></fech_mensaje>
+		</persona>
+</saludos>
+<!--En esta version es sin el elemento contenedor datos personales-->

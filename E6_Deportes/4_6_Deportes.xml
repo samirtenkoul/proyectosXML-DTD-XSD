@@ -31,4 +31,4 @@ xsi:noNamespaceSchemaLocation = "4_6_Deportes.xsd">
 		<fechafundacion>1902</fechafundacion>    
 		<moroso>true</moroso>  
 	</equipo>
-</deporte> 
+</deporte>

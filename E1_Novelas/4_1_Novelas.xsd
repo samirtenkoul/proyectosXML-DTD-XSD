@@ -14,5 +14,6 @@
 	<xs:element name="titulo" type="string"/>
 	<xs:element name="prologo" type="string"/>
 	<xs:element name="introduccion" type="string"/>
-</xsd:schema>	
+</xsd:schema>
+
 	

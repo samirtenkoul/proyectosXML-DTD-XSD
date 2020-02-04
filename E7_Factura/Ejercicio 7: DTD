@@ -13,7 +13,7 @@
 		</datos_empresa>
 		<datos_cliente num_cli="879" num_fact="999">
 			<nom_cli>Dario Bueno Gutierrez</nom_cli>
-			<direccion_envio>Av. Oporto nบ7 4บD</direccion_envio>
+			<direccion_envio>Av. Oporto nยบ7 4ยบD</direccion_envio>
 			<poblacion_cli cod_post="28043">Madrid</poblacion_cli>
 			<provincia_cli>Madrid</provincia_cli>
 		</datos_cliente>

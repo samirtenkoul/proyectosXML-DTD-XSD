@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<notas asignatura="SSOO">
+	<alumno num_mat="4328">
+		<nombre>Juan</nombre>
+		<apellidos>Gonzalez</apellidos>
+		<trimestre id="t1">
+			<teoria>8</teoria>
+			<practicas>9</practicas>
+		</trimestre>
+		<trimestre id="T2">
+			<teoria>8</teoria>
+			<practicas>9</practicas>
+		</trimestre>
+		<trimestre id="T3">
+			<teoria>8</teoria>
+			<practicas>9</practicas>
+		</trimestre>
+	</alumno>
+</notas >

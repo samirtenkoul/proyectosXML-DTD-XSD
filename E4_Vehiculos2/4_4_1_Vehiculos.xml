@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<vehiculos
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="4_4_1_Vehiculos.xsd" >
+	<nombre>coche</nombre>
+	<nombre>moto</nombre>
+	<nombre>camion</nombre>
+</vehiculos>

@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<xsd:schema xmlns:xsd = "http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="vehiculos">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="nombre" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="nombre">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="descripcion" type="xsd:string"/>
+				<xsd:element name="tipo"/>
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:enumeration value="Diesel"/>
+							<xsd:enumeration value="Gasolina"/>
+							<xsd:enumeration value="Electrico"/>
+						</xsd:restriction>
+					<xsd:simpleType>
+				<xsd:element name="numero" type="xsd:integer"/>
+			</xsd:sequence>
+			<xsd:attribute name="id" type="string"/>	
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema> 

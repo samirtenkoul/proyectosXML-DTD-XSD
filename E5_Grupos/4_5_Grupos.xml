@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="4_5_Grupos.css"?>  
+<grupo
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="4_5_Grupos.xsd" >
+	<persona>
+			<nombre>Luis</nombre>
+			<apellido>Perez</apellido>
+			<apellido>Sierra</apellido>
+			<fechanacimiento>1999-10-05</fechanacimiento>
+			<numerodocumento>33444555</numerodocumento>
+			<local>true</local>
+	</persona>
+	<persona>
+			<nombre>Marta</nombre>
+			<apellido>Ortega</apellido>
+			<fechanacimiento>1998-05-23</fechanacimiento>
+			<numerodocumento>44556677</numerodocumento>
+			<local>false</local>
+	</persona>
+</grupo>

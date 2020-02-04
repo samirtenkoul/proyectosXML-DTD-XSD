@@ -1,0 +1,54 @@
+grupo  
+	{  
+	background-color: #ccccff;  
+	width: 25%;  
+	} 
+ persona  
+	{   
+	display: block;   
+	border: 3px ridge red;   
+	background-color: lightyellow;   
+	margin-bottom: 10pt;   
+	margin-left: 5pt;   
+	padding-left: 15pt;   
+	padding-top: 5pt;  
+	} 
+ nombre,apellido, 
+	{  
+	color: green;    
+	font-weight: bold;  
+	font-size: 15pt;  
+	border-bottom: 1px solid blue;  
+	margin-bottom: 10pt; 
+	} 
+ fechanacimiento, numerodocumento  
+	{   
+	display: block;   
+	margin-left: 10pt;   
+	color: blue;   
+	font-weight: bold;   
+	font-size: 12pt;  
+	} 
+ local  
+	{   
+	display: block;   
+	font-weight: bold;   
+	font-size: 12pt;   
+	margin-left: 10pt;   
+	padding-bottom: 5pt;  
+	} 
+ fechanacimiento:before  
+	{    
+	content: "F.Nacimiento:";   
+	color: maroon; 
+	} 
+ numerodocumento:before  
+	{    
+	content: "DNI:";   
+	color: maroon;  
+	} 
+ local:before  
+	{   
+	content: "Local:";   
+	color: maroon; 
+	} 

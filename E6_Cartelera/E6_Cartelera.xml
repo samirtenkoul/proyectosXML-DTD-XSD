@@ -18,7 +18,7 @@
 		</interpretes>
 		<sinopsis>
 			Mitch, Frank y Beanie son tres amigos treintañeros cuyas vidas no son exactamente 
-			lo que esperaban. Mitch tiene una novia ninfómana que se mete en la cama con el
+			lo que esperaban. Mitch tiene una novia que se mete en la cama con el
 			primero que agarra. Frank se ha casado y su matrimonio nada tiene que ver con las
 			juergas salvajes que organizaban años atrás. Y Beanie es un padre de familia que
 			se muere por recuperar su alocada juventud. Pero las cosas cambian cuando Beanie
@@ -31,61 +31,32 @@
 		<clasificacion>mayores de 16 años</clasificacion> 
 		<cartel></cartel>
 	</pelicula>
-	<pelicula id="" nac="">
-		<titulo></titulo>
-		<tit_orig></tit_orig>
-		<nacionalidad></nacionalidad>
-		<anyo></anyo>
-		<duracion></duracion>
-		<director></director>
+	<pelicula id="2" nac="">
+		<titulo>Memorias de Africa</titulo>
+		<tit_orig>Out of Africa</tit_orig>
+		<nacionalidad>EEUU</nacionalidad>
+		<anyo>1985</anyo>
+		<duracion>160 min</duracion>
+		<director>Sydney Pollack</director>
 		<interpretes>
+			<actor1>Meryl Streep</actor1>
+			<actor2>Robert Redford</actor2>
+			<actor3>Klaus Maria Brandauer</actor3>
+			<actor4> Michael Kitchen</actor4>
+			<actor5>Malick Bowens</actor5>
 		</interpretes>
 		<sinopsis>
+			Libremente inspirada en la obra homónima de la escritora danesa Isak Dinesen. 
+			A principios del siglo XX, Karen (Streep) contrae un matrimonio de conveniencia 
+			con el barón Blixen (Brandauer), un mujeriego empedernido. 
+			Ambos se establecen en Kenia con el propósito de explotar una plantación de café. 
+			En Karen Blixen nace un apasionado amor por la tierra y por las gentes de Kenia. 
+			Pero también se enamora pérdidamente de Denys Finch-Hatton (Redford), un personaje 
+			aventurero y romántico a la antigua usanza, que ama la libertad 
+			por encima de todas las cosas.
 		</sinopsis>
 		<link></link>
-		<clasificacion></clasificacion> 
-	</pelicula>
-	<pelicula id="" nac="">
-		<titulo></titulo>
-		<tit_orig></tit_orig>
-		<nacionalidad></nacionalidad>
-		<anyo></anyo>
-		<duracion></duracion>
-		<director></director>
-		<interpretes>
-		</interpretes>
-		<sinopsis>
-		</sinopsis>
-		<link></link>
-		<clasificacion></clasificacion> 
-	</pelicula>
-	<pelicula id="" nac="">
-		<titulo></titulo>
-		<tit_orig></tit_orig>
-		<nacionalidad></nacionalidad>
-		<anyo></anyo>
-		<duracion></duracion>
-		<director></director>
-		<interpretes>
-		</interpretes>
-		<sinopsis>
-		</sinopsis>
-		<link></link>
-		<clasificacion></clasificacion> 
-	</pelicula>
-	<pelicula id="" nac="">
-		<titulo></titulo>
-		<tit_orig></tit_orig>
-		<nacionalidad></nacionalidad>
-		<anyo></anyo>
-		<duracion></duracion>
-		<director></director>
-		<interpretes>
-		</interpretes>
-		<sinopsis>
-		</sinopsis>
-		<link></link>
-		<clasificacion></clasificacion> 
+		<clasificacion>Mayores de 16 años</clasificacion> 
 	</pelicula>
 </Cartelera>
 

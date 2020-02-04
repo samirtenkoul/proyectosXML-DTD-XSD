@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--ELEMENTOS-->
+<!ELEMENT facturas (factura)>
+<!ELEMENT factura (datos_empresa | datos_cliente | datos_factura)>
+<!ELEMENT datos_empresa (nombre | direccion | ciudad | poblacion | cif | tfno | fax)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)
+<!--ATRIBUTOS-->

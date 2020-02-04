@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE tienda_animales [
+]>
+<clinica>
+	<medico numColegiado="0001">
+		<nombre>Antonio</nombre>
+		<apellido1>Garcia</apellido1>
+		<apellido2>Paredes</apellido2>
+		<fecha_alta>15/02/2010</fecha_alta>
+		<especialidad id="0001">
+			<nombre>Cardiologia</nombre>
+		</especialidad>
+		<especialidad id="0002">
+			<nombre>Ginecologia</nombre>
+		</especialidad>
+	</medico>
+</clinica>

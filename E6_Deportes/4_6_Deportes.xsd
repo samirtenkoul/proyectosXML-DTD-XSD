@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<xsd:schema xmlns:xsd = "http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="deporte">
+		<xsd:complexType>
+			<xsd:element name="equipo">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="nombre" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+						<xsd:element name="entrenador" type="xsd:string" minOccurs="1" maxOccurs="2"/>
+						<xsd:element name="NumJugadores" type="xsd:integer" minOccurs="1" maxOccurs="1"/>
+						<xsd:element name="fechafundacion" type="xsd:date"/>
+						<xsd:element name="moroso" type="xsd:boolean"/>
+					</xsd:sequence>	
+				<xsd:complexType>
+			</xsd:element>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

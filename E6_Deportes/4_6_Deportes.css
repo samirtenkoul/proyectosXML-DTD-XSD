@@ -1,0 +1,69 @@
+deporte
+	{
+	background-color:  #ccccff; 
+	width: 25%;
+	}
+equipo
+	{
+	display: block;	
+	background-color: lightyellow;
+	border: 3px ridge red;
+	margin-left: 5pt;
+	margin-bottom: 10pt;
+	padding-left: 15pt;   
+	padding-top: 5pt; 
+	}
+nombre,entrenador
+	{
+	color: green;
+	border-bottom: 1px solid blue;
+	font-weight: bold;
+	font-size: 15pt;	
+	}
+NumJugadores
+	{
+	color: black;	
+	display: block;
+	margin-left: 10pt;
+	font-weight: bold;
+	font-size: 12pt;	
+	}
+fechafundacion
+	{
+	color: black;	
+	display: block;	
+	margin-left: 10pt;
+	font-weight: bold;
+	font-size: 12pt;
+	}	
+moroso
+	{
+	color: black;	
+	display: block;
+	margin-left: 10pt;
+	font-weight: bold;
+	font-size: 12pt;
+	padding-bottom: 5pt;
+	}
+entrenador:before
+{
+content:"Entrenador : ";
+color: green;
+}
+NumJugadores:before
+{
+content:"Jugadores de la primera plantilla:";
+color: blue;	
+}
+fechafundacion:before
+{
+content:"Se fundo en :";
+color: blue;	
+}
+moroso:before
+{
+content:"Moroso : ";
+color: blue;	
+}
+	
+	

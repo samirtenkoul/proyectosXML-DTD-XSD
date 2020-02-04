@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "UTF-8"?>  
+<?xml-stylesheet type="text/css" href="4_6_Deportes.css"?>  
+<deporte 
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation = "4_6_Deportes.xsd">  
+	<equipo>   
+		<nombre>Betis:</nombre>   
+		<entrenador>Quique Setien</entrenador>   
+		<NumJugadores>20</NumJugadores>    
+		<fechafundacion>1910</fechafundacion>    
+		<moroso>false</moroso>  
+	</equipo>  
+	<equipo>   
+		<nombre>Atletico de Madrid:</nombre>   
+		<entrenador>Simeone</entrenador>   
+		<NumJugadores>21</NumJugadores>    
+		<fechafundacion>1903</fechafundacion>    
+		<moroso>false</moroso>  
+	</equipo>  
+	<equipo>   
+		<nombre>Real Madrid:</nombre>   
+		<entrenador>Solari</entrenador>   
+		<NumJugadores>22</NumJugadores>    
+		<fechafundacion>1902</fechafundacion>    
+		<moroso>true</moroso>  
+	</equipo>   
+	<equipo>   
+		<nombre>Barcelona:</nombre>   
+		<entrenador>Valverde</entrenador>   
+		<NumJugadores>22</NumJugadores>    
+		<fechafundacion>1902</fechafundacion>    
+		<moroso>true</moroso>  
+	</equipo>
+</deporte> 

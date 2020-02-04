@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<xsd:schema xmlns:xsd = "http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="novela">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:choice>
+					<xsd:element ref="titulo"/>
+					<xsd:element ref="prologo"/>
+					<xsd:element ref="introduccion"/>
+				</xsd:choice>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xs:element name="titulo" type="string"/>
+	<xs:element name="prologo" type="string"/>
+	<xs:element name="introduccion" type="string"/>
+</xsd:schema>	
+	

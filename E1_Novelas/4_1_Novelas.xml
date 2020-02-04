@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<novela
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="4_1_Novelas.xsd">
+	<titulo>El codigo Da Vinci</titulo>
+	<prologo>Codigo</prologo>
+	<introduccion>Un profesor de simbolismo...</introduccion>
+	<titulo>El codigo Da Vinci</titulo>
+	<prologo>Codigo</prologo>
+	<introduccion>Un profesor de simbolismo...</introduccion>
+</novela>
